@@ -1,0 +1,5 @@
+Team members: Serena Zhu, Yuanhao Shen, Yuechuan Zhang
+Topic: 
+1. Data Security(user and password implementation)
+2. GUI Redesign(add the login/register interface; inchat interface)
+3. (optional)Offline Games(instead of showing poems, we may add some small games when user is not chatting)
